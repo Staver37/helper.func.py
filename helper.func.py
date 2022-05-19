@@ -14,5 +14,5 @@ def split(text):
     words.append(word)
     return words
 # CALLING OUR FUNCTION
-print(split("hellonpeople") )
+print(split("hello people") )
 print(split("i love python3") )
